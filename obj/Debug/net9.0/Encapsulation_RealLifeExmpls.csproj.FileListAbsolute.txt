@@ -1,0 +1,15 @@
+D:\Encapsulation_RealLifeExmpls\bin\Debug\net9.0\Encapsulation_RealLifeExmpls.exe
+D:\Encapsulation_RealLifeExmpls\bin\Debug\net9.0\Encapsulation_RealLifeExmpls.deps.json
+D:\Encapsulation_RealLifeExmpls\bin\Debug\net9.0\Encapsulation_RealLifeExmpls.runtimeconfig.json
+D:\Encapsulation_RealLifeExmpls\bin\Debug\net9.0\Encapsulation_RealLifeExmpls.dll
+D:\Encapsulation_RealLifeExmpls\bin\Debug\net9.0\Encapsulation_RealLifeExmpls.pdb
+D:\Encapsulation_RealLifeExmpls\obj\Debug\net9.0\Encapsulation_RealLifeExmpls.GeneratedMSBuildEditorConfig.editorconfig
+D:\Encapsulation_RealLifeExmpls\obj\Debug\net9.0\Encapsulation_RealLifeExmpls.AssemblyInfoInputs.cache
+D:\Encapsulation_RealLifeExmpls\obj\Debug\net9.0\Encapsulation_RealLifeExmpls.AssemblyInfo.cs
+D:\Encapsulation_RealLifeExmpls\obj\Debug\net9.0\Encapsulation_RealLifeExmpls.csproj.CoreCompileInputs.cache
+D:\Encapsulation_RealLifeExmpls\obj\Debug\net9.0\Encapsulation_RealLifeExmpls.sourcelink.json
+D:\Encapsulation_RealLifeExmpls\obj\Debug\net9.0\Encapsulation_RealLifeExmpls.dll
+D:\Encapsulation_RealLifeExmpls\obj\Debug\net9.0\refint\Encapsulation_RealLifeExmpls.dll
+D:\Encapsulation_RealLifeExmpls\obj\Debug\net9.0\Encapsulation_RealLifeExmpls.pdb
+D:\Encapsulation_RealLifeExmpls\obj\Debug\net9.0\Encapsulation_RealLifeExmpls.genruntimeconfig.cache
+D:\Encapsulation_RealLifeExmpls\obj\Debug\net9.0\ref\Encapsulation_RealLifeExmpls.dll

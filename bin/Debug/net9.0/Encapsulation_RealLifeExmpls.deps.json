@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Encapsulation_RealLifeExmpls/1.0.0": {
+        "runtime": {
+          "Encapsulation_RealLifeExmpls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encapsulation_RealLifeExmpls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
